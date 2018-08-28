@@ -38,7 +38,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ["weibo","qq","wechat","tencent","douban","qzone","linkedin","diandian","facebook","twitter","google"]
+social-share-items: ["weibo","qq","wechat","douban","qzone","linkedin","facebook","twitter","google"]
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
